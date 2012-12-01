@@ -1,0 +1,1 @@
+/home/c/.vim/plugin/bufexplorer.vim
